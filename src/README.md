@@ -1,0 +1,1 @@
+This program can calculate the circle area and diameter of a circle
